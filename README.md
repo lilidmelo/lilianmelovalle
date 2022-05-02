@@ -51,14 +51,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **Things about me:**
 <!-- TODO-IST:START -->
 :minidisc:  Favorite band : Panic! at the disco           
-:womans_hat:  One piece big fan      
+:womans_hat: Mugiwara  (one piece fandom)
 ⏳  24 years old
 <!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lilianmelovalle&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lilianmelovalle&show_icons=true&theme=gotham" alt="lilianmelovalle" />
 
 
 
