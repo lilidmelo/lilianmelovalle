@@ -52,7 +52,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 :minidisc:  Favorite band : Panic! at the disco           
 :womans_hat: Mugiwara  (one piece fandom)
-⏳  24 years old
+⏳ 24 years old
 <!-- TODO-IST:END -->
 
 
