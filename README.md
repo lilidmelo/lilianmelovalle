@@ -14,7 +14,7 @@
 
 
 
-hi, i'm Lilian Müller, a passionate self-taught back end web developer  from Brazil. i take great care in the experience, architecture, and code quality of the things I build.Passionate about learning new things, lover of music and anime/manga
+hi, i'm Lilian Müller, a self-taught back end web developer  from Brazil. i take great care in the experience, architecture, and code quality of the things I build.Passionate about learning new things, lover of music and anime/manga
 
 I've always loved technology and knowing how things worked.
 
